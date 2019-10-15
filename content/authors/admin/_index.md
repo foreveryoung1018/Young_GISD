@@ -21,19 +21,19 @@ organizations:
 bio: My research interests include demography.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fertility and Mortality
+- Health
+- Immigration
 
 education:
   courses:
   - course: PhD in Sociology
     institution: Ohio State University
-    year: 2019~
-  - course: MA in Demography and Social Analysis
+    year: 2019~202?
+  - course: MA in Demographic and Social Analysis
     institution: University of California, Irvine
     year: 2018
-  - course: BA BSc in Sociology & Statistics
+  - course: BA&BS in Sociology & Statistics
     institution: Ewha Womans University
     year: 2017
 
