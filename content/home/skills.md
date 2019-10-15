@@ -28,13 +28,13 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "50%"
 
 [[feature]]
   icon = "stata"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "stata"
   description = "50%"
 
