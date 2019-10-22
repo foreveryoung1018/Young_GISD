@@ -18,25 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Advanced"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  description = "Intermediate"
 
 [[feature]]
   icon = "stata"
   icon_pack = "fab"
   name = "stata"
-  description = "50%"
+  description = "Advanced"
 
 
 
