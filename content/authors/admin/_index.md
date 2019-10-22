@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Sociology
     institution: Ohio State University
-    year: 2019~20??
+    year: 2019 ~ 202?
   - course: MA in Demographic and Social Analysis
     institution: University of California, Irvine
     year: 2018
