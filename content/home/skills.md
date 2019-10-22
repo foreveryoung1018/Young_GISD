@@ -18,26 +18,27 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Advanced"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Intermediate"
 
 [[feature]]
   icon = "stata"
   icon_pack = "fab"
   name = "stata"
-  description = "Advanced"
 
+[[feature]]
+  icon = "language"
+  icon_pack = "fab"
+  name = "stata"
+  description = "Korean, Chinese, Spanish"
 
 
 +++
