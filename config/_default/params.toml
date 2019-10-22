@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "strawberry"
+theme = "forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -97,7 +97,7 @@ address = {street = "127 Townshend Hall", city = "Columbus", region = "OH", post
 coordinates = {latitude = "40.000229", longitude = "-83.015123"}
 
 # Directions for visitors to locate you.
-directions = "Enter Towhshend hall and it's on first floor"
+directions = "Enter Towhshend hall and it's on the first floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -109,9 +109,7 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
