@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include demography.
+bio: My research interests are in Demography.
 
 interests:
 - Fertility and Mortality
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:choi.1620@buckeyemail.osu.edu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -73,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Yoonyoung is a phd student of Sociology at the Ohio State University. Her research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yoonyoung is a phd student of Sociology at the Ohio State University. Her research interests include Demography, Determinants of fertility and mortality, Family, Aging and Life-course, Quantitative Methodology, Demographic Methodology, Social Network Analysis, Population Policy, Health Inequality, and Computational Social Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
