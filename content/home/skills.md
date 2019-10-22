@@ -31,8 +31,8 @@ subtitle = ""
 
 [[feature]]
   icon = "stata"
-  icon_pack = "fas"
-  name = "stata"
+  icon_pack = "fab"
+  name = "Stata"
 
 [[feature]]
   icon = "language"

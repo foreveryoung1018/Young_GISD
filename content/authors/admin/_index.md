@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Sociology PhD 
+role: Sociology PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Ohio State University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
