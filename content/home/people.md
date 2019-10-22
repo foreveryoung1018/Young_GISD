@@ -5,7 +5,7 @@ s+++
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight =   # Order that this section will appear.
+weight = 100 # Order that this section will appear.
 
 title = "Meet the Team"
 subtitle = ""
