@@ -31,13 +31,13 @@ subtitle = ""
 
 [[feature]]
   icon = "stata"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "stata"
 
 [[feature]]
   icon = "language"
-  icon_pack = "fab"
-  name = "stata"
+  icon_pack = "fas"
+  name = "languages"
   description = "Korean, Chinese, Spanish"
 
 
