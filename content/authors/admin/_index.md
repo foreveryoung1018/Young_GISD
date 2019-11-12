@@ -22,7 +22,7 @@ bio: My research interests are in Demography.
 
 interests:
 - Fertility and Mortality
-- Health
+- Health disparity 
 - Immigration
 
 education:
